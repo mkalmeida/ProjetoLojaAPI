@@ -1,1 +1,2 @@
 # loja-teste
+# testeloja
